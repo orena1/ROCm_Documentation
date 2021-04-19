@@ -117,8 +117,8 @@ The current rocm.gpg.key is not available in a standard key ring distribution, b
 
 ::
 
-     /opt/rocm/bin/rocminfo
-     /opt/rocm/opencl/bin/x86_64/clinfo
+     /opt/rocm-4.1.0/bin/rocminfo
+     /opt/rocm-4.1.0/opencl/bin/x86_64/clinfo
 
 Note: To run the ROCm programs more efficiently, add the ROCm binaries in your PATH.
 
